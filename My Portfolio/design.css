@@ -122,7 +122,10 @@ div.desk:hover{
 div.figma{
     position:absolute;
     right:127px;
-    top:776px;  
+    top:776px; 
+}
+div.figma:hover{
+    animation:shake 2s infinite;
 }
 img.pie {
     position:absolute;
