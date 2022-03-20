@@ -1,0 +1,11 @@
+{
+  "name": "My Portfolio",
+  "id": "1074795179870350702",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
